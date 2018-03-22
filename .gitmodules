@@ -1,0 +1,4 @@
+[submodule "docs/_vendor/bootstrap"]
+	path = docs/_vendor/bootstrap
+	url = https://github.com/twbs/bootstrap/
+	branch = v4-dev
