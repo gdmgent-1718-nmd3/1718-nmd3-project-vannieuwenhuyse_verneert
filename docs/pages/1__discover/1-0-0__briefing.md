@@ -13,8 +13,9 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Céline Vannieuwenhuyse
+ - Joren Verneert
 
 Gekozen Museum
 --------------
+Koers is religie
