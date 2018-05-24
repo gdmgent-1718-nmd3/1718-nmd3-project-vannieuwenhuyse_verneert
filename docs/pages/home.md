@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Céline Vannieuwenhuyse, 2CMO-GD
+ - Joren Verneert, 2CMO-GD

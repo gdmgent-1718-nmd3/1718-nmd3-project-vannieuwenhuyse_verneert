@@ -6,39 +6,7 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-## Sofie Fallet 
-- 36 jaar
-- Administratieve medewerker
-- Standaard inkomen
-- 1 dochter van 10 jaar
-- Hobbykok, fietstochten & veel tijd doorbrengen met haar gezin
-- Roeselare
-
-### Digitaal profiel
-3 websites:
-1. http://www.fietsroute.org
-2. https://www.libelle-lekker.be
-3. http://www.facebook.be
-
-3 apps:
-1. Lark
-2. Waze
-3. Pinterest
-
-Toestellen:
-- Tablet
-- Laptop
-- Smartwatch
-- Smartphone
-
-Lijst van taken, frustraties, algemene vragen, …
-- Huishouden
-- Kinderen van school halen
-- Frustraties wanneer er slecht onderhouden fietspaden zijn.
-
-Beschrijf houdingen en overtuigen
-- Gezonder door het leven gaan
-- Meer verplaatsen met de fiets of te voet dan met de auto
+![Persona 1](../../../img/persona.jpg){: .img}
 
 ### Scenario
 Het is een zaterdagvoormiddag en ik wil samen met mijn gezin een leuke uitstap beleven in Roeselare. Omdat ik niet helemaal thuis ben wat er te doen is, keek ik op de site UitinVlaanderen.be. Wanneer ik de postcode van Roeselare intyp en aanduid dat ik met kinderen ben. Bots ik op de tentoonstelling van ‘Koers is Religie’. Wanneer ik het artikel open,  stellen ze me voor om de app te downloaden voor een gratis gezinspakket te gebruiken in de tentoonstelling. Bij aankomst bij ‘Koers is Religie’ krijg ik nog wat instructies over hoe de app werkt en ga ik aan de slag samen met mijn. 
@@ -74,40 +42,7 @@ De eerste vraag die ons gesteld wordt is of we de app geïnstalleerd hebben. Dez
 3. Gezinszoektocht + rondleiding  
 Ik start de gezinszoektocht met de kinderen via de app, een heel toffe manier om het museum te leren kennen. Hiernaast gebruikt mijn man op zijn smartphone de rondleiding op de app, zodat we beide kunnen volgen. Het is geen grote tentoonstelling dus is het heel makkelijk om de app te volgen, alles wordt trouwens heel goed beschreven. Wij maken geen gebruik van het luisteren naar de tekst via de app, maar lezen deze gewoon af.  Wanneer we aan de Croix de Fer komen nemen we een foto via de app, waarmee we deze direct ook via sociale media kunnen delen.
 
-## Stefaan Eeckhout
-- 52 jaar
-- Restaurant uitbater
-- Standaard inkomen
-- Geen kinderen
-- Koken, fietstochten & avondje de vrienden doorbrengen
-- Lichtervelde
-
-### Digitaal profiel
-3 websites: 
-1. https://www.vlaanderen-fietsland.be 
-2. http://www.bevernagie.be/winkel 
-3. https://www.metro.be
-
-3 apps:
-1. Facebook
-2. Waze
-3. Temple run
-
-Toestellen:
-- Smartphone
-- Tablet
-- Laptop
-
-Lijst van taken, frustraties, algemene vragen, …
-- Personeel voorzien
-- Frustraties wanneer personeel laat afzegt
-- Frustraties wanneer er onvriendelijke klanten zijn
-- Hij vraagt zich af hoe wielertoeristen zijn restaurant vinden
-
-Beschrijf houdingen en overtuigen
-- Hij heeft 2 passies: koken & fietsen
-- Hij leeft voor zijn restaurant
-- Hij wil elke dag nieuwe dingen bijleren
+![Persona 2](../../../img/persona2.jpg){: .img}
 
 ### Scenario
 De maandag en de dinsdag zijn mijn zijn sluitingsdagen van het restaurant. Als ontspanning wil ik graag eens naar het Wielermuseum op bezoek. Door mijn klanten ben ik in contact gekomen met het museum, want door de fietsroutes die ze verkopen in het museum passeren een hele hoop mensen langs mijn restaurant. Als bedanking plan ik dus een uitje naar het Wielermuseum. Ik doet op voorhand wat research van het museum en op de site promoten ze de bijpassende app. Ik download deze app & bekijk al eens vluchtig het museum. Ik kom toe in het museum & aan de balie vragen ze meteen of ik de app geïnstalleerd heb om de tour te volgen. Meteen start ik hiermee en ga ik heel het museum er meer rond.

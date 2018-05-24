@@ -10,17 +10,16 @@ title: Analyse
 Om te beginnen zijn we een paar apps gaan bekijken van andere musea's om een goed beeld te krijgen over wat gebruikelijk is in een museumapp.
 
 
-### Rijksmuseum
-- Bewegelijke homepagina (+)
-- Duidelijke startopties		(In het museum / onderweg, thuis) (+)
-- Tour volgen (+)
-- Zelf museum ontdekken + foto’s (+)
-- melding om route te beëindigen (+)
+| Rijksmuseum                       | Louvre museum                |
+|-----------------------------------|------------------------------|
+| + Bewegelijke homepagina          | + Extra info over omgeving   |
+| + Duidelijke startopties          | + Beweging in de app         |
+| + Volgen van tour                 | - Betalende onderdelen       |
+| + Gebruik van foto's              |                              |
+| + Melding om route te beëindigen  |                              |
+|===================================|==============================|
+{:.table.table-primary}
 
-### Louvre museum
-- Wanneer je menu kiest, verkleint originele scherm (+)
-- Extra info omgeving (+)
-- Betalende onderdelen app (-)
 
 ## Museumbezoek
 Op 17/04/2018 zijn wij de zaterdagmiddag naar het Wielermuseum geweest. Wij hebben expres gekozen om een zaterdagmiddag te gaan, doordat het meestal iets wat drukker is op dat moment. Ook was het nog net in de krokusvakantie, waardoor er waarschijnlijk meer gezinnen gingen zijn. Tijdens de krokusvakantie waren er gratis gezinspakketten om te gebruiken tijdens je museumreis. Op voorhand hadden we laten weten aan het museum dat we op bezoek kwamen en of het mogelijk was om een paar vragen te stellen aan de bezoekers. 
