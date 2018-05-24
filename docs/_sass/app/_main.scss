@@ -6,3 +6,19 @@
   "layout",
   "navigation",
   "scrollbar";
+
+  @import url("https://fonts.googleapis.com/css?family=Oswald");
+
+  body{
+    background-color: $light;
+    font-family: Oswald, sans-serif;
+    color: $blue;
+  }
+
+  a{
+    color: $light;
+  }
+
+  .nav-link.disabled,{
+    color: $blue;
+  }
