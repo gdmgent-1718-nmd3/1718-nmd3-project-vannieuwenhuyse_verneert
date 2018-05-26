@@ -8,10 +8,10 @@ title: Journey Maps
 ---
 ![Persona 1]({{ 'img/persona.png' | relative_url }}){:.img}{:style="width: 800px"}
 
-### Scenario
+## Scenario
 Het is een zaterdagvoormiddag en ik wil samen met mijn gezin een leuke uitstap beleven in Roeselare. Omdat ik niet helemaal thuis ben wat er te doen is, keek ik op de site UitinVlaanderen.be. Wanneer ik de postcode van Roeselare intyp en aanduid dat ik met kinderen ben. Bots ik op de tentoonstelling van ‘Koers is Religie’. Wanneer ik het artikel open,  stellen ze me voor om de app te downloaden voor een gratis gezinspakket te gebruiken in de tentoonstelling. Bij aankomst bij ‘Koers is Religie’ krijg ik nog wat instructies over hoe de app werkt en ga ik aan de slag samen met mijn. 
 
-### Beleving zonder app
+## Beleving zonder app
 1. Voor ik aankwam  
 Wij zijn van Roeselare zelf, dus weten we de tentoonstelling zijn. Toch bekijken we via de site  de locatie even om toch zeker te zijn. Hiernaast bekijk ik ook de openingsuren en de eventuele prijzen. Samen met mijn gezin vertrekken we met de fiets om al wat in de stemming te komen. We kunnen onze fiets parkeren voor het wielermuseum in de voorziene plaatsen.
 
@@ -21,7 +21,7 @@ Wanneer we in het museum komen, krijgen we een infoboekje mee met waaronder de p
 3. Gezinszoektocht + rondleiding  
 Ik start de zoektocht met de kinderen en volg de pelgrimage, we lezen de teksten af bij de bijhorende stops. Nadat we de pelgrimage route gevolgd hebben, gaan we over naar de kruistocht. Een kleinere route met meer beeldmateriaal en weinig tekst. Tussendoor hebben de kinderen hun zoektocht voltooid en gaan we om hun beloning. 
 
-### Inzichten
+## Inzichten
 Pijnpunten per fase in de reis:
 1. Voor ik aankwam  
 /
@@ -32,7 +32,7 @@ Ik vond dat we een heleboel papierwerk in onze handen kregen. Soms wat ongemakke
 3. Gezinszoektocht + rondleiding  
 We konden alles makkelijk volgen via de rondleiding, maar soms kregen we te weinig informatie bij sommige beelden/kunstwerken.
 
-### Beleving met app	
+## Beleving met app	
 1. Voor ik aankwam  
 Wij zijn van Roeselare zelf, dus wisten we de tentoonstelling zijn. Toch bekeken we via de app de locatie even om toch zeker te zijn. Hiernaast bekeek ik ook de openingsuren en de eventuele prijzen. Samen met mijn gezin vertrokken we met de fiets om al wat in de stemming te komen. We konden onze fiets parkeren voor het wielermuseum in de voorziene plaatsen.
 
@@ -44,10 +44,10 @@ Ik start de gezinszoektocht met de kinderen via de app, een heel toffe manier om
 
 ![Persona 2]({{ 'img/persona2.png' | relative_url }}){:.img}{:style="width: 800px"}
 
-### Scenario
+## Scenario
 De maandag en de dinsdag zijn mijn zijn sluitingsdagen van het restaurant. Als ontspanning wil ik graag eens naar het Wielermuseum op bezoek. Door mijn klanten ben ik in contact gekomen met het museum, want door de fietsroutes die ze verkopen in het museum passeren een hele hoop mensen langs mijn restaurant. Als bedanking plan ik dus een uitje naar het Wielermuseum. Ik doet op voorhand wat research van het museum en op de site promoten ze de bijpassende app. Ik download deze app & bekijk al eens vluchtig het museum. Ik kom toe in het museum & aan de balie vragen ze meteen of ik de app geïnstalleerd heb om de tour te volgen. Meteen start ik hiermee en ga ik heel het museum er meer rond.
 
-### Beleving zonder app
+## Beleving zonder app
 1. Voor ik aankwam  
 Op de website vond ik de locatie van het museum, wat redelijk dicht bij het station van Roeselare is. Ik neem de trein van Lichtervelde naar Roeselare, wat echt gemakkelijk gaat. Ik stap vanaf het station naar het museum, wat een prachtige locatie is: een kerk. Nu ben ik nog meer benieuwd wat zich binnen allemaal afspeelt.
 
@@ -63,7 +63,7 @@ Het is een prachtige locatie met niet enkel de rondleiding, het is nog steeds en
 5. Ik ga naar de shop  
 Na het museumbezoek kijk ik nog eens goed naar de shop. Ik heb geen geld bij, want het museum is gratis, dus ik kan niets kopen.
 
-### Inzichten
+## Inzichten
 
 1. Voor ik aankwam  
 Ik moest zelf uitzoeken hoe ik het beste naar het museum kon gaan, wat niet ideaal is.
@@ -80,7 +80,7 @@ Ik heb niks van informatie over de fietsen, de croix de fer of eender wat naast 
 5. Ik ga naar de shop  
 Online shoppen zou een pluspunt kunnen zijn.
 
-### Beleving met app
+## Beleving met app
 1. Voor ik aankwam  
 De app vertelt me niet enkel de exacte locatie van het museum, maar ook de meest interessante manier hoe ik er kan geraken. Het museum ligt op wandelafstand van het station in Roeselare, dus neem ik de trein van Lichtervelde naar Roeselare, wat echt gemakkelijk gaat. Ik stap vanaf het station naar het museum, wat een prachtige locatie is: een kerk. Nu ben ik nog meer benieuwd wat zich binnen allemaal afspeelt.
 

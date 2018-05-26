@@ -3,26 +3,50 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Briefing
+-
+  time: 2.5
+  task: Tentoonstelling 'Koers is Religie' bezocht.
+-
+  time: 2.5
+  task: Deel van de analyse gemaakt
 -
   time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  task: Kartonnen versie smartwatch
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.5
+  task: Installatie in de les
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Wireframes uittekenen
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Journey map 2 
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 1
+  task: Tekst museum uittypen
+-
+  time: 2
+  task: Concept bedenken + pitch voorbereiden
+-
+  time: 3
+  task: Elevator pitch voorstellingen
+-
+  time: 4.5
+  task: Smartwatch paper prototype + analyse aanpassen + concept aanpassen
+-
+  time: 0.5
+  task: Logo
+-
+  time: 4
+  task: Wireframes smartphone
+-
+  time: 5
+  task: Visual design smartphone
+-
+  time: 0.5
+  task: Mockups website
+-
+  time: 2
+  task: Online productiedossier
