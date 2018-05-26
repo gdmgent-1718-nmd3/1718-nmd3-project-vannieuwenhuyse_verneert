@@ -14,3 +14,9 @@ De app neemt je mee op pelgrimage langs 10 kapellen & op een kruisweg via 10 sta
 We merkten op tijdens het museumbezoek dat er bepaalde elementen waren waar we niet genoeg info over kregen. Dit was bijvoorbeeld bij de muur met een heleboel fietstruitjes, maar ook bij de portretten van bekende wielrenners. Graag zouden we hier via een design in onze app meer info geven over bepaalde truitjes extra info wanneer en door wie deze gedragen werden.
 
 Daarnaast zullen we aan de hand van facial recognition de gezichten aan de “kadermuur” opbouwen. De smartphone-app kan via je camera het gezicht van die welbepaalde wielrenner scannen en er meer informatie over weergeven zoals naam, nationaliteit en biografie.
+
+## Functies app:
+- 2 routes volgen
+- Face recogniton van Wielerhelden
+- Fietstruitjes
+- Infopagina 

@@ -47,14 +47,18 @@ h4{
 p{
   font-size: 15px;
 }
-  a{
+
+a{
     color: $light;
-  }
+}
 
   .nav-link.disabled,{
     color: $blue;
-  }
+}
 
-table{
-  border-color:$light;
+ul{
+  padding: 20px;
+  padding-left: 40px;
+  background-color: #e8efee;
+  border-radius: 15px;
 }

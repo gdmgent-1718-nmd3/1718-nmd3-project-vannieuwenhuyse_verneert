@@ -9,12 +9,12 @@ title: Style Tiles
 
 Gekozen
 -------
-![Styletile](../../../img/styletile.jpg){: .img}
+![Gekozen Styletile]({{ 'img/styletile3.png' | relative_url }}){:.img}{:style="width: 600px"}
 
 Alternatief 1
 -------------
-![Styletile 1](../../../img/styletile-01.jpg){: .img}
+![Styletile 1]({{ 'img/styletile1.png' | relative_url }}){:.img}{:style="width: 600px"}
 
 Alternatief 2
 -------------
-![Styletile 2](../../../img/styletile-02.jpg){: .img}
+![Styletile 2]({{ 'img/styletile2.png' | relative_url }}){:.img}{:style="width: 600px"}

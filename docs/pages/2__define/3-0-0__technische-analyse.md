@@ -8,6 +8,8 @@ title: Technische Analyse
 ---
 ## Smartwatch
 ### Apple Watch Series 3, 42 mm
+![Smartwatch]({{ 'img/smartwatch.png' | relative_url }}){:.img}{:style="width: 800px"}
+
 #### Features (belangrijkere aspecten voor ons)
 - Ingebouwd gps en GLONASS
 - Snellere dual-coreprocessor
@@ -46,6 +48,8 @@ title: Technische Analyse
 
 ## Smartphone
 ### iPhone 6s 32 GB
+![iPhone]({{ 'img/iphone.png' | relative_url }}){:.img}{:style="width: 800px"}
+
 #### Specificaties:
 - 32 GB
 - 4,7”, Retina HD-display

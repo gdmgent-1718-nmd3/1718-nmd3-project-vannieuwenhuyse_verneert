@@ -35,3 +35,6 @@ In het totaal hebben we :
 2. Als je nu naar Koers is Religie komt, ga je dan later nog naar het vernieuwde Wielermuseum gaan? Waarom wel/waarom niet?
 3. Als er een app ontstaat voor het museum zou je er dan gebruik van maken? 
 4. Wat is voor jou noodzakelijk wat in de app staat?
+
+### Plattegrond
+![plattegrond]({{ 'img/plattegrond.png' | relative_url }}){:.img}{:style="width: 400px"}
