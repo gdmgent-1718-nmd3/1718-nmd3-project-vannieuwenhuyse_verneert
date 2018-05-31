@@ -12,3 +12,6 @@ Wie zijn we?
 
  - Céline Vannieuwenhuyse, 2CMO-GD
  - Joren Verneert, 2CMO-GD
+
+![celine]({{ 'img/celine.png' | relative_url }}){:.img .leden}{:style="width: 30%"}
+![joren]({{ 'img/joren.png' | relative_url }}){:.img .leden}{:style="width: 30%"}
