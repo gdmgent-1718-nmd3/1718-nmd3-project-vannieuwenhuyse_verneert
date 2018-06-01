@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+![Wireframe_site]({{ 'img/wireframe.png' | relative_url }}){:.img}{:style="width:100%"}

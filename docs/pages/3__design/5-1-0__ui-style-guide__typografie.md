@@ -10,4 +10,4 @@ Oswald wordt gebruikt als font op meer dan 5,2 miljoen websites.
 
 ## ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-![Screens phone]({{ 'img/font.png' | relative_url }}){:.img}{:style="width:100%"}
+![Typografie]({{ 'img/font.png' | relative_url }}){:.img}{:style="width:100%"}

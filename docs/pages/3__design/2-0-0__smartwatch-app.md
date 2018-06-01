@@ -6,9 +6,7 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
-<!--links werken nog niet!-->
-- [Wireflow](design/smartwatch-app/wireflow)
+- <a href="/1718-nmd3-project-vannieuwenhuyse_verneert/design/smartwatch-app/wireflow">Wireflow</a>
+- <a href="/1718-nmd3-project-vannieuwenhuyse_verneert/design/smartwatch-app/gebruikerstests">Gebruikerstests</a>
+- <a href="/1718-nmd3-project-vannieuwenhuyse_verneert/design/smartwatch-app/screen-designs">Screen-designs</a>
 
-- [Gebruikerstests](smartwatch-app/gebruikerstests)
-
-- [Screen designs](smartwatch-app/screen-designs)
