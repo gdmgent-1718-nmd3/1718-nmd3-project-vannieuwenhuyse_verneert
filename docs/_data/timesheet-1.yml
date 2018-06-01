@@ -6,16 +6,19 @@
   time: 3
   task: Briefing
 -
+  time: 18
+  task: Hoorcolleges
+-
+  time: 20
+  task: Werkcolleges
+-
   time: 2.5
   task: Tentoonstelling 'Koers is Religie' bezocht.
 -
-  time: 2.5
-  task: Deel van de analyse gemaakt.
+  time: 6
+  task: Analyse
 -
-  time: 2.5
-  task: Installatie in de les.
--
-  time: 3
+  time: 5
   task: Journey maps 
 -
   time: 1
@@ -27,20 +30,30 @@
   time: 3
   task: Elevator pitch voorstellingen
 -
-  time: 4.5
+  time: 6
   task: Smartwatch paper prototype + analyse aanpassen + concept aanpassen
 -
-  time: 3
-  task: Informatie online plaatsen
--
   time: 4
-  task: Wireframes smartwatch maken
+  task: Wireframes smartwatch
 -
-  time: 0.30
+  time: 1
   task: Ideaboard opstellen
 -
-  time: 4
-  task: Visual design smartwatch
+  time: 1
+  task: Styletiles
 -
-  time: 
-  task: 
+  time: 20
+  task: Smartwatch-app Wireflow & Screen Designs
+-
+  time: 8
+  task: Smartphone-app wireflow & sceen designs
+-
+  time: 10
+  task: Productiedossier maken
+-
+  time: 5
+  task: Digital Ui Style Guide
+-
+  time: 2
+  task: Presentatie jury voorbereiden
+
