@@ -85,3 +85,26 @@ ul{
   margin: 15px;
 }
 
+.color{
+  padding: 40px;
+  padding-bottom: 60px;
+  color: white;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.groen{
+  background-color: #209a8b;
+}
+
+.licht{
+  background-color: #fdf8f7;
+  color: $green;
+  border: $blue;
+}
+
+.blauw{
+  background-color: #203a4d;
+}
+
+
