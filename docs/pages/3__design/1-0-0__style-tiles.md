@@ -11,10 +11,16 @@ Gekozen
 -------
 ![Gekozen Styletile]({{ 'img/styletile3.png' | relative_url }}){:.img}{:style="width: 600px"}
 
+Deze styletile hebben we samen ontworpen.
+
 Alternatief 1
 -------------
 ![Styletile 1]({{ 'img/styletile1.png' | relative_url }}){:.img}{:style="width: 600px"}
 
+Styletile ontworpen door Céline.
+
 Alternatief 2
 -------------
 ![Styletile 2]({{ 'img/styletile2.png' | relative_url }}){:.img}{:style="width: 600px"}
+
+Styletile ontworpen door Joren.

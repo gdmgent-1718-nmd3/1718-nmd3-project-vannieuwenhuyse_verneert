@@ -6,3 +6,9 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+<!--links werken nog niet!-->
+- [Wireflow](design/smartwatch-app/wireflow)
+
+- [Gebruikerstests](smartwatch-app/gebruikerstests)
+
+- [Screen designs](smartwatch-app/screen-designs)
