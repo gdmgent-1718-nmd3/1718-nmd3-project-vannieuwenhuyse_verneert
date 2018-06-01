@@ -6,13 +6,19 @@
   time: 3
   task: Briefing
 -
-  time: 2.5
-  task: Tentoonstelling 'Koers is Religie' bezocht.
+  time: 18
+  task: Hoorcolleges
+-
+  time: 20
+  task: Werkcolleges
 -
   time: 2.5
+  task: Tentoonstelling 'Koers is Religie' bezocht
+-
+  time: 6
   task: Deel van de analyse gemaakt
 -
-  time: 0.5
+  time: 1
   task: Kartonnen versie smartwatch
 -
   time: 2.5
@@ -36,17 +42,32 @@
   time: 4.5
   task: Smartwatch paper prototype + analyse aanpassen + concept aanpassen
 -
-  time: 0.5
+  time: 1
   task: Logo
 -
-  time: 4
-  task: Wireframes smartphone
+  time: 1
+  task: Uitwerken pormotionele website
+-
+  time: 1.5
+  task: Gebruikerstest smartphone
 -
   time: 5
+  task: Wireframes smartphone
+-
+  time: 20
   task: Visual design smartphone
 -
-  time: 0.5
-  task: Mockups website
+  time: 8
+  task: Visual design smartwatch
 -
   time: 2
+  task: Visual designs in XD linken
+-
+  time: 1
+  task: Mockups website
+-
+  time: 5
   task: Online productiedossier
+-
+  time: 2
+  task: Voorbereiding jury
