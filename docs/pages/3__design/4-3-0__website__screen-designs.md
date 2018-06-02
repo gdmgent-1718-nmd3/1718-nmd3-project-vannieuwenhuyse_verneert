@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+![Screen design site]({{ 'img/website.png' | relative_url }}){:.img}{:style="width:100%"}
