@@ -13,3 +13,7 @@ Home + deel route Kruisweg
 Tshirt Wall
 
 ![Wireflow smartwatch]({{ 'img/wireflow_phone1.png' | relative_url }}){:.img}{:style="width:100%"}
+
+Links van en naar de functie 'Koershelden'
+
+![Wireflow smartwatch]({{ 'img/wireflow_phone3.png' | relative_url }}){:.img}{:style="width:50%"}
