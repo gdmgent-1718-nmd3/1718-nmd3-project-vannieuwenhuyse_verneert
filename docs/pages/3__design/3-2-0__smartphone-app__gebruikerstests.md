@@ -29,9 +29,9 @@ Stephanie is, net zoals Sofie, van middelbare leeftijd, heeft 1 dochter en breng
 
 We passen de navigatie aan, we gaan gebruik maken van een vaste balk aan de onderkant van de app. Hiernaast gaan we gebruik gaan maken van duidelijkere knoppen om te "swipen" tussen de onderdelen van de routes. 
 
-![gebruikerstest]({{ 'img/stephanie1.jpg' | relative_url }}){:.img}{:style="width:30%"}
-![gebruikerstest]({{ 'img/stephanie2.jpg' | relative_url }}){:.img}{:style="width:30%"}
-![gebruikerstest]({{ 'img/stephanie3.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![test phone 1]({{ 'img/stephanie1.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![test phone 2]({{ 'img/stephanie2.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![test phone 3]({{ 'img/stephanie3.jpg' | relative_url }}){:.img}{:style="width:30%"}
 
 # Gebruiker 2: Wim
 
@@ -51,6 +51,6 @@ Wim is net zoals Stefaan, is bijna 50 jaar en beoefend wielrennen als sport. We 
 ## Besluit
 We zullen gebruik maken van nieuwe woordenkeuze en kijken voor een duidelijke navigatie.
 
-![gebruikerstest]({{ 'img/wim1.jpg' | relative_url }}){:.img}{:style="width:30%"}
-![gebruikerstest]({{ 'img/wim2.jpg' | relative_url }}){:.img}{:style="width:30%"}
-![gebruikerstest]({{ 'img/wim3.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![test phone 4]({{ 'img/wim1.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![test phone 5]({{ 'img/wim2.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![test phone 6]({{ 'img/wim3.jpg' | relative_url }}){:.img}{:style="width:30%"}
