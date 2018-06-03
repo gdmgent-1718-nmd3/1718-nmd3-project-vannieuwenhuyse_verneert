@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
-- [Vind hier het werkende prototype](https://xd.adobe.com/view/9660f9dd-5071-4a40-b349-a4b2fd46ef64)
+- [Vind hier het werkende prototype](https://xd.adobe.com/view/9660f9dd-5071-4a40-b349-a4b2fd46ef64) (Open koppeling in nieuw tablad)
 
 
 ![Screens watch]({{ 'img/visuals_watch.png' | relative_url }}){:.img}{:style="width:100%"}
