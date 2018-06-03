@@ -31,8 +31,8 @@ Tonia is, net zoals Sofie, van middelbare leeftijd, heeft 2 kinderen en brengt g
 
 Sinds de informatie over de wielrenners het belangrijkste is tijdens de route, kunnen we deze niet schrappen. Het is het beter dat we ons enkel concentreren op de route Pelgrimage en het Live peloton.
 
-![paper prototype]({{ 'img/test_watch2.jpg' | relative_url }}){:.img}{:style="width:30%"}
-![paper prototype]({{ 'img/test_watch4.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![paper prototype startscherm]({{ 'img/test_watch2.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![paper prototype roure kruisweg]({{ 'img/test_watch4.jpg' | relative_url }}){:.img}{:style="width:30%"}
 
 # Gebruiker 2: Jan
 
@@ -54,5 +54,5 @@ Jan is, net zoals Stefaan, in de 50 jaar en heeft een passie voor wielrennen. We
 We zullen gebruik maken van een ander icoon, maar het moet nog steeds duidelijk zijn dat de bepaalde statie(s) achter de rug zijn > gebruik maken van een aankomstvlag?
 Het scherm ‘Klaar om te starten’ schrappen we.
 
-![paper prototype]({{ 'img/test_watch3.jpg' | relative_url }}){:.img}{:style="width:30%"}
-![paper prototype]({{ 'img/test_watch5.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![paper prototype start route]({{ 'img/test_watch3.jpg' | relative_url }}){:.img}{:style="width:30%"}
+![paper prototype finish route]({{ 'img/test_watch5.jpg' | relative_url }}){:.img}{:style="width:30%"}
